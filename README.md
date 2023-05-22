@@ -16,7 +16,7 @@ A variety of shaders exist, from basic maximum-intensity projection to photoreal
 
 ## HOW I RAN A VOLUME RAY CASTING CODE AVAILABLE ON GITHUB
 
-I am explaining how i ran a volume ray casting code on github using visual studio
+I am explaining how i ran a volume ray casting code on github using visual studio.
 
 first i used the seach button on my github account to get other github projects on volume ray casting 
 
