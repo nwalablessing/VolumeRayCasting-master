@@ -77,9 +77,9 @@ With some tweaking, I managed to get it running at 60fps on my old ThinkPad.
 ###### Previous work
 
 This project is the successor of earlier experiments with volume rendering by drawing point clouds:  
-[GitHub](https://github.com/RolandR/brainrender), [Web](https://draemm.li/various/brainrender/)
+[GitHub](https://github.com/RolandR/brainrender), [Web](https://draemm.li/various/brainrender/), https://github.com/Chan-Mao-Hsiang/VolumeRayCasting-master
 
-####### Disclaimer
+####### Kindly note
 
 This is an experimental project developed by someone who has no real experience or training in medical imaging.  
 **It is not intended or suitable for clinical use.**
