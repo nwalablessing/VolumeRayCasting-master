@@ -6,7 +6,7 @@ This project aims to develop a powerful real-time volume rendering engine for th
 
 ![MRI rendered using a specular shader](doc/img/mri-water1.png)
 
-This is accomplished using [volume ray casting](https://en.wikipedia.org/wiki/Volume_ray_casting), implemented in WebGL 2.
+This is accomplished using [volume ray casting](https://en.wikipedia.org/wiki/Volume_ray_casting), implemented in VISUAL STUDIO
 
 ![MRI rendered using an edge-detect shader](doc/img/edges-water-orange.png)
 
@@ -14,7 +14,27 @@ A variety of shaders exist, from basic maximum-intensity projection to photoreal
 
 ![Photorealistic rendering of a head](doc/img/mri-realistic.png)
 
-## How do I render my own data?
+## HOW I RAN A VOLUME RAY CASTING CODE AVAILBLE ON GITHUB
+
+I am explaining how i ran a volume ray casting code on github using visual studio
+
+first i used the seach button on my github account to get other github projects on volume ray casting 
+
+i selected https://github.com/Chan-Mao-Hsiang/VolumeRayCasting-master
+
+I then forked the code using the fork button on github to generate my own repository on the project.
+
+i created a file folder on my desktop and called it project and then i rightclicked and selected visualcode here
+
+then i opened a new terminal on my visual studio page and i used the command  git clone 
+
+after cloning was succesful i used the cd desktop command to locate file
+
+ then i ran the java script source code index on the web to generate the output.
+
+
+
+### How do I render my own data?
 
 I am planning to implement a better way to do this, but for now, you'll have to clone the project and edit the code to add your own images.
 
@@ -41,11 +61,11 @@ var volumes = {
 
 When you refresh the page, you should now see your volume in the drop down list.
 
-## Volume Generator
+#### Volume Generator
 
 For testing, there's a [volume generator](https://draemm.li/various/volumeRendering/volumeGenerator/), which might also be interesting for other projects working with volume data.
 
-## CPU-Only version
+##### CPU-Only version
 
 Before implementing this project in WebGL, I wrote a [volume renderer in pure CPU-side, single-threaded JavaScript](https://draemm.li/various/volumeRendering/cpu/).
 
@@ -53,12 +73,12 @@ Before implementing this project in WebGL, I wrote a [volume renderer in pure CP
 
 With some tweaking, I managed to get it running at 60fps on my old ThinkPad.
 
-## Previous work
+###### Previous work
 
 This project is the successor of earlier experiments with volume rendering by drawing point clouds:  
 [GitHub](https://github.com/RolandR/brainrender), [Web](https://draemm.li/various/brainrender/)
 
-## Disclaimer
+####### Disclaimer
 
 This is an experimental project developed by someone who has no real experience or training in medical imaging.  
 **It is not intended or suitable for clinical use.**
