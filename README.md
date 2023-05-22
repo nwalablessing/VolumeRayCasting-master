@@ -14,7 +14,7 @@ A variety of shaders exist, from basic maximum-intensity projection to photoreal
 
 ![Photorealistic rendering of a head](doc/img/mri-realistic.png)
 
-## HOW I RAN A VOLUME RAY CASTING CODE AVAILBLE ON GITHUB
+## HOW I RAN A VOLUME RAY CASTING CODE AVAILABLE ON GITHUB
 
 I am explaining how i ran a volume ray casting code on github using visual studio
 
@@ -30,7 +30,8 @@ then i opened a new terminal on my visual studio page and i used the command  gi
 
 after cloning was succesful i used the cd desktop command to locate file
 
- then i ran the java script source code index on the web to generate the output.
+ then i ran the java script source code index using visual code and on the web to generate the output.
+ 
 
 
 
